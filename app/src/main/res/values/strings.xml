@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SummerSchool</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    
+    <string-array name="image_titles">
+        <item>Tagging Bennu</item>
+        <item>NGC 7822 in Cepheus </item>
+        <item>Postcard from the south pole</item>
+        <item>Full moonlight</item>
+        <item>Mare Frigoris</item>
+        <item>Messier 101</item>
+        <item>Interior View</item>
+        <item>Eye of moon</item>
+        <item>Colors of moon</item>
+    </string-array>
+
+    <string-array name="image_date">
+        <item>2020-10-22</item>
+        <item>2022-01-20</item>
+        <item>2021-12-11</item>
+        <item>2021-11-18</item>
+        <item>2020-10-08</item>
+        <item>2021-11-27</item>
+        <item>2015-01-23</item>
+        <item>2020-12-02</item>
+        <item>2020-11-11</item>
+    </string-array>
+    
+</resources>
