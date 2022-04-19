@@ -4,6 +4,7 @@ Immedia Summer School project which displays the Astronomy Picture of the Day vi
 
 # What I Learnt
 
+* Using a REST API
 * The loading of an image using the Picasso library.
 * Displaying a range of images in a Recylerview.
 * Update UI with API data
